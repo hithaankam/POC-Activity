@@ -24,7 +24,7 @@ r = p.add_run('QPSK Modulation and Demodulation using MATLAB')
 r.bold = True
 r.font.size = Pt(16)
 
-for text in ['Student: Hitha Ankam', 'Subject: Communication Systems / POC Activity', 'Repository: [ADD_GITHUB_REPOSITORY_LINK]']:
+for text in ['Student: Hitha Ankam', 'Subject: Communication Systems / POC Activity', 'Repository: https://github.com/hithaankam/POC-Activity']:
     p = report.add_paragraph(text)
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
@@ -41,7 +41,7 @@ sections = {
 '8. Expected Results': 'At low Eb/N0, the received constellation is dispersed. At high Eb/N0, it becomes concentrated near the four ideal points. BER decreases as Eb/N0 increases.',
 '9. Applications': 'Satellite communication, Wi-Fi systems, digital television broadcasting, and mobile communication links.',
 '10. Conclusion': 'The MATLAB simulation successfully demonstrates QPSK modulation, an AWGN channel, symbol detection, and BER analysis.',
-'Source Code and Repository': 'Complete source code repository: [ADD_GITHUB_REPOSITORY_LINK]',
+'Source Code and Repository': 'Complete source code repository: https://github.com/hithaankam/POC-Activity',
 'References': '1. S. Haykin, Communication Systems, Wiley.\n2. J. G. Proakis and M. Salehi, Digital Communications, McGraw-Hill.\n3. MATLAB documentation for digital modulation and AWGN channel modeling.'
 }
 

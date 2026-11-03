@@ -33,4 +33,4 @@ The constellation diagram shows ideal and noisy symbols. The BER curve demonstra
 See `QPSK_Project_Report.md` for the complete report.
 
 ## GitHub Repository
-Repository link will be inserted after the project is pushed: `[ADD_GITHUB_REPOSITORY_LINK]`
+GitHub Repository: https://github.com/hithaankam/POC-Activity

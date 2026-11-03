@@ -4,7 +4,7 @@
 
 **Student:** Hitha Ankam  
 **Course/Subject:** Communication Systems / POC Activity  
-**Project Repository:** [ADD_GITHUB_REPOSITORY_LINK]
+**Project Repository:** https://github.com/hithaankam/POC-Activity
 
 ---
 
@@ -81,7 +81,7 @@ The MATLAB simulation successfully demonstrates QPSK modulation, an AWGN channel
 
 ## Source Code and Repository
 
-The complete project is available at: **[ADD_GITHUB_REPOSITORY_LINK]**
+The complete project is available at: **https://github.com/hithaankam/POC-Activity**
 
 ## References
 

@@ -66,4 +66,5 @@ xlabel('Eb/N0 (dB)'); ylabel('Bit Error Rate (BER)');
 title('QPSK BER Performance in AWGN Channel');
 saveas(gcf, 'results/qpsk_ber_curve.png');
 
-fprintf('Number of transmitted bits: %d\n', length(bits));printf('BER at 20 dB: %.6f\n', BER(end));
+fprintf('Number of transmitted bits: %d\n', length(bits));
+fprintf('BER at 20 dB: %.6f\n', BER(end));

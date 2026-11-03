@@ -1,6 +1,6 @@
 # Dummy Results
 
-These files are representative placeholder outputs for the QPSK project submission. Replace them with MATLAB-generated outputs when MATLAB is available.
+These files are representative sample outputs for the QPSK project submission. They can be replaced with MATLAB-generated outputs when MATLAB is available.
 
 ## Files
 

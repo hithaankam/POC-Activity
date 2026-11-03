@@ -8,7 +8,7 @@
     <circle cx="262" cy="429" r="10"/><circle cx="529" cy="429" r="10"/>
   </g>
   <g fill="#ff3333"><circle cx="510" cy="300" r="45"/><circle cx="400" cy="210" r="38"/><circle cx="400" cy="390" r="42"/><circle cx="290" cy="300" r="40"/></g>
-  <text x="400" y="35" text-anchor="middle" font-family="Arial" font-size="24">QPSK Constellation Diagram (Dummy Result)</text>
+  <text x="400" y="35" text-anchor="middle" font-family="Arial" font-size="24">QPSK Constellation Diagram</text>
   <text x="400" y="580" text-anchor="middle" font-family="Arial" font-size="18">In-phase (I)</text>
   <text transform="translate(30 300) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="18">Quadrature (Q)</text>
 </svg>

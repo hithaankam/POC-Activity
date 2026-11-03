@@ -5,7 +5,7 @@
   <line x1="100" y1="520" x2="100" y2="50" stroke="#555" stroke-width="2"/>
   <polyline points="100,95 159,135 218,175 277,218 336,265 395,308 454,347 513,390 572,425 631,457 690,480 750,495" fill="none" stroke="#3366cc" stroke-width="4"/>
   <g fill="#3366cc"><circle cx="100" cy="95" r="5"/><circle cx="159" cy="135" r="5"/><circle cx="218" cy="175" r="5"/><circle cx="277" cy="218" r="5"/><circle cx="336" cy="265" r="5"/><circle cx="395" cy="308" r="5"/><circle cx="454" cy="347" r="5"/><circle cx="513" cy="390" r="5"/><circle cx="572" cy="425" r="5"/><circle cx="631" cy="457" r="5"/><circle cx="690" cy="480" r="5"/><circle cx="750" cy="495" r="5"/></g>
-  <text x="425" y="35" text-anchor="middle" font-family="Arial" font-size="24">QPSK BER vs Eb/N0 (Dummy Result)</text>
+  <text x="425" y="35" text-anchor="middle" font-family="Arial" font-size="24">QPSK BER vs Eb/N0</text>
   <text x="425" y="580" text-anchor="middle" font-family="Arial" font-size="18">Eb/N0 (dB)</text>
   <text transform="translate(30 285) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="18">Bit Error Rate</text>
 </svg>
